@@ -1,0 +1,257 @@
+{
+    "bbox": [
+        77.588655,
+        12.869535,
+        80.271008,
+        13.221512
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "engine": {
+            "build_date": "2022-02-18T19:37:41Z",
+            "graph_date": "2022-03-20T11:18:01Z",
+            "version": "6.7.0"
+        },
+        "query": {
+            "coordinates": [
+                [
+                    77.590082,
+                    12.9767936
+                ],
+                [
+                    80.270186,
+                    13.0836939
+                ]
+            ],
+            "format": "json",
+            "profile": "driving-car"
+        },
+        "service": "routing",
+        "timestamp": 1650735087464
+    },
+    "routes": [
+        {
+            "bbox": [
+                77.588655,
+                12.869535,
+                80.271008,
+                13.221512
+            ],
+            "geometry": "grenAugqxMfAbCp@`BSJy@uBs@yAcA_C]g@c@a@[Y{IqIe@c@aBaBcBaBcA{@aC{BAAc@]aF{DJWvA_G`@oAvAkG~@iEz@mDPs@Je@Lc@f@gBPq@H_@j@uB`AcEXkAlAiFBKtB}HXCnFnABKr@yCFYDSJe@h@gCBKFUJa@bGuW\\wA~@eEEAoD{@OCFQdByGPu@ZqAd@uBbAgEb@iBFWZyDFOCq@AeBIeAAQO[Yk@KI][W_BGe@E]?qAH_AHeAJ}A@QFkA@U@k@F]P[MSYi@IO_@e@q@k@{@i@sBwAqAg@}A_AKO[g@q@sAYk@MW[a@[_@GEQI[SoAu@Y]sBsAmAw@mAaAcAu@i@g@eBsBQQYi@_AiB_@{AYaFSeEAUWcHSaB_@oBAKAEgCeJa@{AaAuDeCuJs@aCoAeE]qAc@}AEKEMiAwD_DwKQi@GSKY_@iAg@yAcFgNEKq@gBm@cBGQs@oB]}@GOaAiC{EmMSg@Ma@Uo@Qk@iGqOM[yBsFe@yAeAcDk@cB_AiCg@sAsBsFi@y@IMiAuDi@yAyB{GMc@e@uAMg@}GaRuCoHgAwCmAuD]_Ac@_A}DmIiG}MoDaIuFcLg@_AYo@aFmKuDgJ{@aCi@mBoAmJOu@GeAUeBKmB?oC?wB@gA@_AGu@Kc@g@q@sA}@kAy@OKiA{@wAgAa@YUQe@]sAgAsAgAm@_@k@]iB}@_CgA}EaCwBmAmBsBaA_BuAsDyC}IKWSk@Qa@qC{FwEeJcAoB{CuGuNiYeD{HO[KYa@s@aMiX_@y@wIyR}ByEWi@mAeCcFcLg@kASc@sDeHwA{BoBcD}C}Ea@m@eIgMoEaHsOiVOUCE_FuHgKiPaA}A_GcJy@oAoAmBkEaHaCkDaGiJ}CeFyCwEiE{G_@g@iAiBu@iAo@mA_BmDcFsKIOQ_@uBwEi@gAUe@KQ]u@a@y@uA{C{CiI{AkESo@GQSk@m@aBWm@M[?AeAaCu@iAW_@]e@OQo@q@kAiACCgCsB{BkBq@k@MIGG_IcGSQyIwHqDqDuJ}HsBgBgBoBmAkBsN}[i@mAwA_DsDqIwBqEm@qAyA{CgKoTGMaHuNoBaE_AwBg@kA[gAOeAQgBCiAQaXFuCF{Af@cGPyBHuA^sFAmBK}BQ_Bi@gCqC_HaEgJmBaEmCuFcAkBgAoB}AsCwC}F_GoPkC{Hc@oCOiEO{C[qBc@cBQc@]o@OQy@gAy@y@gDuC_BaB}@mAYi@_@cAGOOi@SaAa@eDu@oFY_Be@uByA_HmCgMg@yBKa@]gBy@uDgCmLcAcDk@yAiA_C_AgB_GuJ{@cBe@eAiAaDy@mCu@oDqB_JoDeOeA_FgAgH]eCSw@Qu@qFoQs@yBoAcEoCaHwBsEmC{EqBwCsAyBeDyH]{@aDkHgEsHwDsGuCmFw@_Bw@aC_@mAiDwJuAeDiBuDuDkEkEcDaHmEcDgCiDoDqEaEk@g@}B{B{@y@oDgEgBcC{AkC}CcH_FcKg@wAa@oBQkB?qAJwAx@sEp@wCVmBH}A@mAMyB]aCy@_Ei@sBy@oBaAoAu@s@yFyDaGmD{@s@mAqAq@aA_AeCk@wDIy@[wBe@yEc@{EUmA_BcJ{CoP{BoNeCaGoAiCw@_BUe@qDeHw@cBm@iBa@uBGcDX{HH_FEoAKwCo@qE_@yA]_AyCcKS}CEsAMoGM_K[mDm@yCoAgD}AsEeAgDM[KeBEgCl@sEd@sCd@yCRmCDgDB}DDsE@q@HgCFiB@KDwAVqGf@qD`Lci@hA{FXwAb@eH\\kJKeDOsE}@aJa@iD[qAYyAgCiKo@yCUiB]iCEc@y@sHs@mHi@uGAYG_CBwF\\eG`@gDh@}Cp@gDj@eDb@iBl@}CxBiKnH{^zJkj@\\}BJoABeA?gAEgAKeAQcAU_A{@yB}@yAsf@ok@eAiBo@aBY_AGSGWCOMoBEiA?mAd@{Ij@cJ^cE^_DP_Br@cGXiBHk@`@gAnBoE\\y@??bB}DDITo@BEx@cDf@kCh@wDHk@t@qE`DkSlBqMdBuLNkAfBuMLaAZgC~@_Id@qHd@cD`AoDZmAL]f@cB`@sAzBuGxBgHX_B^cCjB_NbDgVFi@BMdC_Rz@kGNcAz@iIp@_Kb@{Fl@qJ|BeW^iGf@sFNkBd@qFb@iF^qDFg@p@iDdBmHr@gC~BaJR}@b@sB@CZqBPmCJ}BCkCY}HGy@o@gJKcBIcAImACe@s@uJi@cF_DuS_AeHwFoXm@{E_@uHKwACk@WyDAQc@cFq@eEmDaOU}@U{@cBoEsCwFq@eBQa@[oAWgBAm@@iAFeANeAr@aClAmD|AyEnCiIfCwHz@aC\\cAd@uAbByEfAcCxBmElBeEfI{P|EiKR_@fA_CtByDdCgEZk@hAqB|@iBf@{Ad@iBPiA@[@WBoC?Q?OAe@EeAK}@Ie@e@}B}@cFwAiHcA}E{@uBy@cByAwBaDyDeLiMkKmLCEi@k@}@cAcBmBeEoEeDyDaE{EMOaHuFiHaG{GgFUYc@cASs@_@mB[qCOmAQsA{@cJQuB[qEUuCmHqaAkAyOGw@Ea@_@}EOyBQ{B_Cq[_@}E_AeMKwACQmBqWkBwVEq@WgD[qE]wEc@sGaCs\\O}BcAiMAKCSu@sJIcAyAiR[_ESiCIcAAUi@_IaAoN_@sF[kEkAaQaAuHyF_[oCuN{DsS_AwEgB_JuHob@q@cE[gDAmACoAAoJAcHAiK?aB?kD@}E@iE@yKDkFJe_@Hw^@oDVuGDiAlBub@?wCYsByCoQ[kB_@kB}@uE{DwRQsAeDu`@qA}Lg@}Dm@sBqFkMSa@iLmWi@}A[iAQ_AIeACo@@qABm@ReB`@oBjHiZXqBHiA?oAIyBy@}MmHolAu@uMaBwXaAaQcBuXwAwSm@_K[oFqF_~@i@yKQmEM}B_AmKAWMsBCuBD_C@qAPeCZuBFe@z@sDz@uCtGoNpF}MtFuNlJeUbFaNL[hBwEbBeFvB}Fr@sBb@uCHuAAwAMqA[gBs@gCgIkUeKuZ{AiEYw@}@wBgAiBiAqAoA}@{As@kA_@uBe@iReDaGw@yYaFsg@aIQCgAQa@GaAOMCeAOu@Om@Q]Ma@Ok@WkAo@m@c@a@[wAyAy@eAkBiCoDcFcIuLwAmBOQs@_AuA}ACAuEiFsB{B{@cAq@s@yDmE_@a@qEgF]e@c@k@S[a@s@s@yAgB}EmBwFkFcOa@mAOe@eAmDSq@m@uBWy@k@wBqC}JgHsWy@qCi@cBi@iB}DiMYkA{@sCUy@u@cCuAeE{AwEqCqIgA_DUy@S{@a@yBk@eDa@sBuIie@eBkJg@eCyAwH_BcIESGYYwASiAOsAMgBEuAEsAAe@S}RGeCOcDCsA@wAD_AfAqJpAgJL{@V{C@{@EiCGaCAq@kAgME_AA_A?aAHcD?EBw@?EB{A?u@Cm@Is@YcBg@oB{CaJw@_DSiAOcAeAoLg@wKCq@E_AA_@AU@mABkB?WB_ATaNVqPBgBJqGHwIJqGPsDHoA@S`@_E|AcNlAaKd@}DJy@l@aFjAkJj@wE@IRyAl@yFTqCLqBHcBNkDt@cP`@eI@UViFNiDBy@P}DZcGHmBJcBNmCFo@DSDWD]b@kBRs@J[xDkNn@uBpAaEPk@Rw@Li@Jm@DYBSJcB@w@B_CVmULkKFuE@e@FoEBgAFeBPwKB{B?kBC_CE_CYsHAaB@gAHmCRkEb@oILgBHaBHiCDoC@_DBgE@mF@OBsJAiBGeDIuBWaHE_AE{AIgBCoAAcCDaCBm@@MRqFN_EHyCBmC@yA?a@@gDDiHDgJFaBHw@De@T{AfDmRNs@f@uC`BiJzCoPX{AReA|@uEd@kBPu@`DmMx@uCr@iC`@cBFUh@qBNk@~AwGnDwNr@}CvAuGHe@zDmR~CcOzPuy@d@eDVyCdA}TLcEBoAAmAKgDOcB_AaH_AeFo@cDeAcGu@_FUaBUcCQmCKkCS{GAU?Mo@mRAkA?u@Ds@J}@PcANk@Vm@Zs@Te@Zm@R_@l@cAnAuBTc@Tk@Rw@Ji@RsABi@@s@EoBIq@SoAYaA[{@_@q@k@{@uB{BsI}HqO{N_AcAo@w@a@o@a@s@[y@i@oBOcAKsAg@qNa@cMWkCSgAo@eCkDaK}D{LKYk@gBcAmDg@uBqAiGCKiD{Pe@gBgBsFuBiF}AuD_@oAe@wBQkBE{AD{A~@}P@eBCg@MgAUyAuAyGm@gD[sBWkCI{BEeCHaELgBl@}E^{BtIm`@NiAH_ADuACwDKeAQgAU_AaAyEoAwGiBkHi@_B}BqFeGeM[q@gA}BmAgC{@sBm@kCS}A[aGkAi^WuGIwBScC_@eCw@aCWk@kBmC_CyBgCiA_Bm@wCi@uBOwVm@mLc@kM[}G]sCYkE{@uDyAgEuBsDqCmCyC{BuCoAsBkAqCsAiEa@mBW_BSeBQwCG}DEoCAyAO{SEyFDuB\\cCj@iBl@uAnC{C`OeI`D_CxAqB|AmC`Vcb@Zk@lPwZtAiC|@mC~Ic[pEoPl@qD\\kFDcEGaGYuG]_Fk@aEcAcG]eBGe@YiBKaCFaBVcBp@iDzCyNtBkKn@qD`ByGL}@PmCHoLRgCZoAh@wAn@oAvA}BvBsCv@}At@eBb@{A\\_Bh@mEPkAd@kBp@mB|FoKv@cBt@kDNcANqDZyDb@oBh@mA^o@p@}@pEqE`B}ApA}AbAeBpAeCjA{Df@wBVkDFaDE_Be@qFScEJsFz@_D|@sBvAeEp@_CNu@XyAViBp@kJHcBP}Av@mBn@mArBqArG{Ar@]r@m@rA_Bb@iAn@qCf@kChC_MhC_Pv@uFRcBHqADoC?OHya@?uU@o@?_B?gAA{BSeB}BaOg@mD}BkS}@_Hc@yFOyCeB_e@?oFDsBLeJz@a^?}BM{Ce@gDwAuIm@{EWuDKaCKcBSyF[oF]sDy@{FcBgKw@mFo@eDu@kCiAsBiEyFaAoBwA{DiBoFg@kBc@cC_Co\\QwA]}Ag@_BaA}AwAyAsAeAcBq@yBi@kUgE{Cs@uB_AuAy@iCgBoBkC}A_D{@iCc@qCSoDw@ue@[{MQmLUuOCyJNwCX}FLwHh@}KfAk]Dw@JeDLoCZsFnB_Np@wFLkD@aCWuGU}DIuAG}@C}ADgD^}ChDgNt@oCf@gBPo@tCcM`C{LnBgNd@gGBqDWkKOuHMuGO_IF{Bl@aFhCuVdBmHlDeMbBuF~@eF^mEx@eI\\yDRwBjAyLx@{IZcDxBoUXmECqD[mEwAuI_@eCq@mEoB}Ke@cDI}BD}AJuAPoA|C_LbCwHj@gCPuBDg@DaDAmEDkKZ_Jh@_Jl@}O`@_Jz@gVf@_LXiHReHp@qPR}HDgE?YBkBEmH?w@EeIIsO[}ISgDK{AcAyQgA{VIcFK_LKwCSwBy@_FeBqI[kDiGi|@?eDCa@OwBIwAAc@?qAJyAHk@Hg@Li@L]j@mA\\i@rCwD`CaDfEaGj@_A\\kAJU\\c@jA}ApAkBPUl@}@Xe@`DqEd@w@HQdAyBb@qAd@qBLw@H{@HoAt@kUZ}HToBLu@Nu@`@sATm@FORi@P_@JOVi@NW^s@lBkDR]d@_AdAsBfB{Cj@cAbCiFR[@En@eAJWVi@n@}AhC}FpGmO\\i@`A}AdI}A|IkCnJqBpDkAjDk@`EI~AHr@HdARhB`@fCb@nCVnAGpAA`BY|GsD~LiIfFcDjDqA`FaBzHwBpBa@nEw@dGwApDc@dAIjJWrB?pCIhFoAzGaAvB]hDm@lC_At@c@|GmF~BmB`DcBbD{@vKsB`Co@lSqJ~ByAv@a@j@ObBGbAQxZoC`Fy@rD_@lG}@hFqA`EmBpFkDnNuKtHuF|FmEfCgBnKwHvEkD|A}@nCs@tAYlF]`I|@lDr@fB^dCh@tLpBnCVbC@bAIjAOfC_AtCaBfCgAzBo@jBc@zW}BpD[`Fc@zAa@xBe@rD_C~A_CjAeCz@iFNwJB]HaAPi@^o@h@s@lA_Cn@i@jC{BbEuAfB_@fG_B^KdKsCzG_Ade@qEnIy@rDu@fCe@pOuGhOcI`DaCf@g@bGuFpCaC~EoExC_D`BuAvAeDjAsD^oARy@bAuCxDgNn@eBfAsBdAiBnAiBvAwClA}F~AyI`BaIfHkVh@}BlBgIr@cBlAuCdOuXlCuDtC}CfHwHfPwPvA{BfG{NnBwE`JsVjGgQlE{OtFeNn@wCpCiSr@_Dx@uBfc@_o@xEyEzF}E`LaJ~OqLdCkBhJaJzRkRfDuBhDaBnF_BxFyAzBy@pBw@jCsAzAuAlD{DdB}AnG{GbImFnAoA|FaIbG_I|QcS`FoGfBmCrB_D|@sAvJuNrCaFrCoGpJ}Xf@uA`DsIbG_OpDgJnGyOp@_BFO^sAd@aBpDaM@Ej@qBXaAxB_IZeAvDgNhB_H~EgRxJa^r@mCb@uARm@pAeBzB_B|AgAjGkEbBkAJIvAeA^U\\WfHgFt\\aVh@_@`D}BzA{AfAgBrAwFz@mDj@uAj@{@|AiB~FeFnAgAtCeCvDmC~@g@|BsAvHoExAeA~@u@n@y@r@cA`@kAfA_EtGcPXq@Na@v@_BFKtBiCb@i@bBwBfFqG|GoInA_BJKfH}H|AaB~AeBfCqChG{GlBsCzAsC~@uCh@}DtCyRhBaMfAaFxAiFnBcEhBsBhBuAjN}FnAi@fDyAfFaBlCo@tCg@pJ{@zB_@~E{BvC}BhCoCxB{Cd@eCTiAn@_DBKBOhB}EXk@n@eAj@iA`AgBfAqB`@w@JQ^y@f@aBhByHDMj@oCt@uCReAHODKN]\\oApBoExBuEl@kA|FwX|BuIjG_Vl@{BfAyDRq@`CcHfAoENqBOwI\\uNF}CEgH?w@YaF@g@HkG@uAVkHV{JTeHZeKNqB\\aBt@wAt@mB^mAtAwJv@oD`Pi_@`CeHxG_Wh@iBz@_DXiAFSf@iB~@yD^{CVoAn@yAvB}GzIqSlNi[fEwK`FmMj@{ABGBGnAkFfAuG`CuMNo@hAmFhAcEnAaE?ANg@DMDOjC_JzBiIdCcJBKf@oB\\uBLmDPkD^iD|@mEtBiLViB|@aG|@wH`Du]~AmN|@yKX{EBuBJwEBwARwJFuCBs@@[D}C^sP^kUB}JSmI]gKEqC_@uKOiEi@oLGeCUkIm@kTc@iKsBee@OuD?WQmEc@_JKsFEyJBaE\\gCj@oB^}@fC_FvB}E|@aCtE_NjC_IzFyQjByGt@aDVoBF_BImLcBcSm@_IYaDGkASwBSkDKiDKgGEuHSsKGeCGiBCoC?}DYeVYqPMwBm@{GKmBOgH[aIGkE@kBPmBp@eEXgCPyB@aBi@ed@IeTGiDAq@?iKE}HMaL?aGDoF?uAHaI\\mRFeCZeKLaKByKJcBrBaVV{EdAaOVgDrAaQ\\uDlAuGlAeHXwBfA}GnBgPj@oCzCwK|CoIVs@vAaEnGiPdA_Cj@iA|@eAtAoA`Ao@tC_B|WgM~BcB|AcCHMvAwDpAuErA}CzBwDpAuCBIxA{D`B_FHUNa@j@uAh@kArAkFjEgU~@wDd@iAl@iAt@aAJKN[rAwAxByBxBcC^m@pAmCn@}CPkBB}BGqDIiCUsF?o@a@uMYaH@yB@gB@UJwB\\mCd@{BxBcJfA_F\\kBHu@VoANoCJcIDiA\\kCr@gExBkITsA`A_GP_AlAeGrAiIv@_Fd@eDXaBp@uEJuBE}Be@gEg@sCm@sD}C_PMo@cAoFwB_LSmAg@wF[gFi@uMo@yM]cIaD_ZW_DUkCa@yFOkDEkGGaECaAMmGSqIAqBE}CBcHBuBBiGJmDPqGBeDAq@BQNmK\\kODgC@c@n@cJD}@LsALsALoA`@oGB_@LoCHaB@c@@GHeIJyB\\wDr@_GD_@r@mELm@DWL_@~@eEv@cC~@aCJ_@No@F]Ba@B}CY{PM_GAQ?GHcFFu@DY@_@TgC@U?QH_AJwADs@L_CDqAAm@Ae@CoBIsC?IG{AA]QwCAIC]SyBi@iFAMAKK{@kAuKMuAMgAgBgQg@iGSuCQaFGcB]iNMcQWwOW_FAc@G}@o@sMw@eOMaDe@}Hs@wPKgCi@iXe@{NAcBCeBG{CI}CCcBC}@Ao@KyDQcCwAoJgCiOsAyHmAkHs@cFeAqEi@cBcG}M}AuD}@oBkAuC{GeO}HoOgEeHkCwDmFkHaB_CcC_DsGeJkAoAw@{@sEyC}BsAoBcBq@}@q@sAqAcDsBaG}AkEuA_E_DaJs@mBeA}BuBqCu@kAc@{@cBoCsEoIcGoKkBwD}@uBM]ISy@aCiGkQuAmDoAwC}AsCQk@c@gAGS_@eBGgBc@uFGeAeAuKuAmLg@wDSaAiAgEoA{D{BsJgD_PeCeJi@yBg@wBa@}Bk@gDQq@{@kE_AmFo@kF_@sBCQsBqQoCeUw@cMGyCYkCG[kAoEISaAwCuA{DmAoDmBmFoAsC]w@Q[{@yAoAyB{AqCy@}Ae@kAo@wAa@oAQs@c@sASw@uB}IQ}@UcAiDiOcA{DwAmEk@{Bu@aCiAaDiAiCsAsBqCyEeAcCc@yAKm@Im@Go@AOAgA?u@HmB\\gBp@wB|CaHt@mCPcADmCEgCo@wCiAgCuh@cw@yGiJGMi@aAAC_AqB[{@k@gBkB{FOa@eCsHw@_DgD{Ms@oCYkAQeAMwAEwARwEZeFToCCs@G_BS_Be@qAaAsBMUoKoLeBqBiL_NmDaEmAgBg@q@}JsNmAgBOOgEeGkJiMcCoCcFsEmHqHuAiBsEyGaBcCwA}ByAoCeFmIyBgDaBcCu@uAgBqCa@}@g@_BKg@Oy@Gs@MuJMoDa@uD}@cKK}@E]Mo@Y}@]u@m@y@eB}AYU]OaBc@oG{@aL_BmBg@a@Qe@WOIy@w@OQYk@[u@e@mAGYsFkSKm@Kg@QuAOkASaAm@eB]w@c@q@sCiC{BiA}Bo@q@UaBe@sDeAuQuFk@WuDyAw@[yAu@a@Si@WaF{CKIq@k@w@}@QOq@cAw@sAoD{GWg@yAaCqAmBqC}DmCoDq@yAc@mA_CsJ}@uCi@yAw@sBgBoFuB}FgAgDKYkAgDsBsGoB_FgAiCSa@yAoCwBmDiJ}NeAaBWa@wH_LmGkJSY}@uAyIyMq@}@_ByAuB}AIGIGc@UMEmBy@s@WiFyAo@WqBq@yBm@iBo@]QWKm@Y_Ae@wDwB{CmBiCcBuBmAu@g@g@]mDqBMIu@i@qFaDk@]cK{FaDmB[O{HiFoBmAeAw@iA}@s@w@iByB_@s@kAmB_C{DyDgGaDkFa@w@w@sBg@_BIYOc@iBeGoDmKwCqGO[sAwCqAaC}F{J}BkDmBgDe@_A{@oBIWIWc@gCKcB]{HSoB]}B[oAa@_A[iAYs@wCsFEIeAqBwLmUeG_LyDsH_HmNwEaJ{AwCaBkDKWuBcEqBmEqDwGS]aCcGM[qAcEQi@_@oA_B_Jq@gDcBiJWwAe@aCCOSaAw@sDeCqJaFsPaAwCIUGQK]wD_N_CwGwAuDsDoI}AuEK_@{AuGiBqJm@{Ck@sC[aBm@kDESI[Ka@WiAWeAK{@Iy@?e@Es@O}CMw@YkAm@}Aw@gCIc@Ec@EmA?UAs@IeICwCEoCW{DGeACKAOU}@e@mCAGESKk@}@yDa@uAe@_Ba@yASg@W}@m@cEa@cIKo@Oq@[gAm@{@k@c@mC}AkEcB}JgEeCwAoByBwAyCyD{La@cCOwBc@}ISuB_@_EqAaIYsCCyD\\oQhA{Y@oH?uBMwEG{DBuCRuCx@oFr@cDp@aDbBsHpBuIl@kCBg@Bm@B{@Cu@OeBK_Ao@yDU{@Sg@Yq@wEeG_C{Co@w@EIi@s@Yk@KQOYe@iA_@kAkByFiBiFeG_Qg@eBS{@SaAQ_ACUEc@UwGGaB?MCuAAg@o@oUSqF[kFKcCc@oHIkP?k@Hq@XeAfAiCr@}Ah@yAZoAv@gHBaABY@]@]Ag@WiBeAmCy@gBq@iBG_AA}@DkANmBFaAXcEAqAB}C@sA?kC?iFAgBIcAW_Ay@yA}@_Am@k@UW_A}@e@i@y@iAeAwAU[m@cAa@iAKu@KeAFkHCu@Q}AYcAGKkAeBmEcHy@wAmCoEeAuB[w@Ow@Im@EaB?{@?[CgAM{@EYSc@[w@kAsBc@s@_@q@EEg@aA_BiCKOkAkBo@eAe@{@]s@IUe@mAm@oBu@eDq@}Ec@kCw@aDuCuIw@uBs@aBsAoBgAeAs@_AMe@Ma@Kq@Be@PwBHwB@kA@{AMeAISM[CEe@o@k@o@o@cAa@qAESGSIa@Gg@I_@I]s@sEg@iCKq@a@gCUwAO}@Gg@KwA?o@Dw@LiALiA@wAGkBk@eE]iCKmAaAoJGaAAeAE{BAaBKyAEqBAeADqAFwAT_FHc@fAuBjBcCpB_FZkAL{@J}@LgCDo@\\{FH_ABYFk@Lo@vAwNBSPwCNaCFwAZkIBk@PuE@aACaAMoEQiDQeCQgAq@{B_@iAq@kB[iAs@kCy@cEi@sD}@eHE]I]c@mFm@eFm@{DYcB{@wFYwBQmAE]K{@C]c@eGIcBG_AWcIAMIw@]cDOoAo@qF]oCQwAEYAaA?oACkD?k@BgB@mA@kA]gHWyEKsCC]KcBEi@I{AQ{D_@kGA[_@mCa@wAEMSq@Ia@e@qDs@mFk@oFCk@BuH@kB?iBAoBA_AAgBCwCCeAGo@Uq@c@P}BNoCNkBNmAHcBNBjA",
+            "segments": [
+                {
+                    "distance": 333077.5,
+                    "duration": 14661.8,
+                    "steps": [
+                        {
+                            "distance": 142.6,
+                            "duration": 8.6,
+                            "instruction": "Head southwest on Doctor B R Ambedkar Veedhi",
+                            "name": "Doctor B R Ambedkar Veedhi",
+                            "type": 11,
+                            "way_points": [
+                                0,
+                                2
+                            ]
+                        },
+                        {
+                            "distance": 1081.4,
+                            "duration": 73.6,
+                            "instruction": "Continue straight onto Doctor B R Ambedkar Veedhi",
+                            "name": "Doctor B R Ambedkar Veedhi",
+                            "type": 6,
+                            "way_points": [
+                                2,
+                                18
+                            ]
+                        },
+                        {
+                            "distance": 1307.5,
+                            "duration": 106.2,
+                            "instruction": "Turn right onto Infantry Road",
+                            "name": "Infantry Road",
+                            "type": 1,
+                            "way_points": [
+                                18,
+                                36
+                            ]
+                        },
+                        {
+                            "distance": 155.5,
+                            "duration": 14.0,
+                            "instruction": "Turn right onto Main Guard Cross Road",
+                            "name": "Main Guard Cross Road",
+                            "type": 1,
+                            "way_points": [
+                                36,
+                                38
+                            ]
+                        },
+                        {
+                            "distance": 874.3,
+                            "duration": 71.6,
+                            "instruction": "Turn left onto Cubbon Road",
+                            "name": "Cubbon Road",
+                            "type": 0,
+                            "way_points": [
+                                38,
+                                50
+                            ]
+                        },
+                        {
+                            "distance": 115.7,
+                            "duration": 13.5,
+                            "instruction": "Turn left onto Dickenson Road",
+                            "name": "Dickenson Road",
+                            "type": 0,
+                            "way_points": [
+                                50,
+                                53
+                            ]
+                        },
+                        {
+                            "distance": 1209.3,
+                            "duration": 99.4,
+                            "instruction": "Turn right onto Halasuru Road",
+                            "name": "Halasuru Road",
+                            "type": 1,
+                            "way_points": [
+                                53,
+                                84
+                            ]
+                        },
+                        {
+                            "distance": 5509.1,
+                            "duration": 343.3,
+                            "instruction": "Turn left onto Swamy Vivekananda Road (Old Madras Road)",
+                            "name": "Swamy Vivekananda Road (Old Madras Road)",
+                            "type": 0,
+                            "way_points": [
+                                84,
+                                170
+                            ]
+                        },
+                        {
+                            "distance": 13394.0,
+                            "duration": 567.2,
+                            "instruction": "Keep right onto Swamy Vivekananda Road (Old Madras Road), NH75",
+                            "name": "Swamy Vivekananda Road (Old Madras Road), NH75",
+                            "type": 13,
+                            "way_points": [
+                                170,
+                                301
+                            ]
+                        },
+                        {
+                            "distance": 111036.6,
+                            "duration": 4722.5,
+                            "instruction": "Continue straight onto Old Madras Road, NH75",
+                            "name": "Old Madras Road, NH75",
+                            "type": 6,
+                            "way_points": [
+                                301,
+                                1237
+                            ]
+                        },
+                        {
+                            "distance": 2906.3,
+                            "duration": 123.1,
+                            "instruction": "Keep right onto Palamaner Bypass, NH42, NH69",
+                            "name": "Palamaner Bypass, NH42, NH69",
+                            "type": 13,
+                            "way_points": [
+                                1237,
+                                1261
+                            ]
+                        },
+                        {
+                            "distance": 38813.3,
+                            "duration": 1643.8,
+                            "instruction": "Keep right onto Palamaner Bypass, NH69",
+                            "name": "Palamaner Bypass, NH69",
+                            "type": 13,
+                            "way_points": [
+                                1261,
+                                1538
+                            ]
+                        },
+                        {
+                            "distance": 119464.3,
+                            "duration": 5282.3,
+                            "instruction": "Continue straight onto Old Madras Road, NH40",
+                            "name": "Old Madras Road, NH40",
+                            "type": 6,
+                            "way_points": [
+                                1538,
+                                2540
+                            ]
+                        },
+                        {
+                            "distance": 28815.3,
+                            "duration": 1220.3,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "type": 13,
+                            "way_points": [
+                                2540,
+                                2905
+                            ]
+                        },
+                        {
+                            "distance": 7876.5,
+                            "duration": 333.6,
+                            "instruction": "Keep right",
+                            "name": "-",
+                            "type": 13,
+                            "way_points": [
+                                2905,
+                                3023
+                            ]
+                        },
+                        {
+                            "distance": 334.6,
+                            "duration": 24.1,
+                            "instruction": "Turn left onto Raja Muthiah Road",
+                            "name": "Raja Muthiah Road",
+                            "type": 0,
+                            "way_points": [
+                                3023,
+                                3029
+                            ]
+                        },
+                        {
+                            "distance": 41.1,
+                            "duration": 14.8,
+                            "instruction": "Turn left onto Nabikhan Street",
+                            "name": "Nabikhan Street",
+                            "type": 0,
+                            "way_points": [
+                                3029,
+                                3030
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "instruction": "Arrive at Nabikhan Street, on the left",
+                            "name": "-",
+                            "type": 10,
+                            "way_points": [
+                                3030,
+                                3030
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "summary": {
+                "distance": 333077.5,
+                "duration": 14661.8
+            },
+            "way_points": [
+                0,
+                3030
+            ]
+        }
+    ]
+}

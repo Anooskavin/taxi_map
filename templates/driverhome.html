@@ -1,0 +1,85 @@
+
+{% extends 'driverlayout.html' %}
+{% block body %}
+<head>
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+
+  <style>
+      #map {
+          width: 100%;
+          height: 50vh;
+      }
+  </style>
+</head>
+
+  <h3 class='jumbotron'>Welcome : {{session.username}}</h3>
+  <body>
+    <div id="map"></div>
+   <section>
+    <div class="col-md-">
+      <form action="{{url_for('driverloc')}}" method='post'>
+        <div class='form-group'>
+          <label>Source</label>
+          <input type='text'  name='source'  required class='form-control'>
+        </div>
+        <input type="text" name="lat" id="lat" hidden>
+        <input type="text" name="long" id="long" hidden>
+<!--        <div class='form-group'> -->
+<!--          <label>Destination</label>-->
+<!--        -->
+<!--          <input type='text' name='destination' required class='form-control'>  -->
+<!--        </div>-->
+        <center>
+        <div class="form-group">
+          <button class="btn btn-primary" type="submit">submit</button>
+        </div>
+          </center>
+  </form>
+    </div>
+  </section>
+</body>
+</html>
+
+<!-- leaflet js  -->
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script>
+    // Map initialization
+    var map = L.map('map').setView([14.0860746, 100.608406], 6);
+
+    //osm layer
+    var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    });
+    osm.addTo(map);
+
+
+        setInterval(() => {
+            navigator.geolocation.getCurrentPosition(getPosition)
+}, 5000);
+
+
+    var marker, circle;
+
+    function getPosition(position){
+        var lat = position.coords.latitude
+        var long = position.coords.longitude
+        var accuracy = position.coords.accuracy
+
+        if(marker) {
+            map.removeLayer(marker)
+        }
+
+
+
+        marker = L.marker([lat, long])
+        circle = L.circle([lat, long], {radius: accuracy})
+
+        var featureGroup = L.featureGroup([marker, circle]).addTo(map)
+
+        map.fitBounds(featureGroup.getBounds())
+
+    }
+
+</script>
+{% endblock %}

@@ -1,0 +1,29 @@
+<head>
+<!--  <meta http-equiv="refresh" content="10">-->
+</head>
+{% include 'userlayout.html' %}
+
+{% block body %}
+
+
+<br><br><br><br>
+
+<center><p>Waiting For Rider</p></center>
+<form name="form1" id= "form1" action="{{url_for('bookstatus')}}" method="post" >
+ <input type="text" name="userbid"  value="{{userbid}}"hidden  />
+</form>
+
+
+<script>
+window.onload=function() {
+console.log("Hello");
+setTimeout(() => { document.getElementById("form1").submit(); },15000);
+console.log("Goodbye!");
+
+}
+    </script>
+
+{% endblock %}
+
+
+{% include 'mapsrcdest.html'%}

@@ -1,0 +1,45 @@
+{% include 'userlayout.html' %}
+
+{% block body %}
+
+
+{% endblock %}
+
+
+{% include 'mapsrcdest.html'%}
+
+<br><br><br><br><br>
+<center>
+<p>Journey Started...!!!</p>
+<br><br>
+    <label id="minutes">00</label>:<label id="seconds">00</label>
+    <br>
+<form action="{{url_for('endride')}}" method="post">
+    <input type="text" name="ubookid"  value="{{ubookid}}"hidden  />
+        <input type="text" name="uid"  value="{{uid}}"hidden  />
+
+    <input type="submit" value=" End Ride"  class="btn btn-primary"/>
+</form>
+</center>
+<script>
+var minutesLabel = document.getElementById("minutes");
+var secondsLabel = document.getElementById("seconds");
+var totalSeconds = 0;
+setInterval(setTime, 1000);
+
+function setTime() {
+  ++totalSeconds;
+  secondsLabel.innerHTML = pad(totalSeconds % 60);
+  minutesLabel.innerHTML = pad(parseInt(totalSeconds / 60));
+}
+
+function pad(val) {
+  var valString = val + "";
+  if (valString.length < 2) {
+    return "0" + valString;
+  } else {
+    return valString;
+  }
+}
+    </script>
+

@@ -1,0 +1,10 @@
+{% extends 'userlayout.html' %}
+{% block body %}
+<a href="{{ url_for('driverlogin') }}"><button type="submit" class="btn btn-primary btn-lg"
+    type="submit">Driver</button></a>
+
+<a href="{{ url_for('userlogin') }}"><button type="submit" class="btn btn-primary btn-lg"
+    type="submit">Passenger</button></a>
+
+        
+{% endblock %}

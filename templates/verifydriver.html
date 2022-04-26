@@ -1,0 +1,61 @@
+{% include 'userlayout.html' %}
+
+{% block body %}
+
+
+{% endblock %}
+
+
+{% include 'mapsrcdest.html'%}
+
+
+<br><br><br><br><br>
+<div class="container bg-secondary card" style="width:50%;">
+  <center>
+  <h2>Taxi Booking </h2>
+  <div class="card ">
+
+
+
+    <div class="card-body">
+      <div class="col-md-">
+      <form name="form1" id= "form1" action="{{url_for('journeybegin')}}" method="post">
+         <input type="text" name="ubookid"  value="{{userbid}}"hidden  />
+        <input type="text" name="uid"  value="{{uid}}"hidden  />
+        <input type="text" name="did"  value="{{did}}"hidden  />
+        <input type="text" name="otp"  value="{{otp}}"hidden  />
+        <div class='form-group'>
+          <p>RIDER NAME&nbsp&nbsp&nbsp&nbsp&nbsp:&nbsp{{ data['UNAME'] }}</p>
+        </div>
+        <div class='form-group'>
+          <p>PHONE&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:&nbsp{{ data['CONTACT'] }}</p>
+        </div>
+        <div class='form-group'>
+           <p>OTP&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:&nbsp{{ otp }}</p>
+        </div>
+        <div class='form-group'>
+          <p>PICKUP&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:&nbsp{{ travel['source'] }}</p>
+        </div>
+        <div class='form-group'>
+          <p>DROP&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:&nbsp{{ travel['destination'] }}</p>
+        </div>
+        <div class='form-group'>
+          <p>COST&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp:&nbsp{{ travel['cost'] }}</p>
+        </div>
+
+  </form>
+    </div>
+    </div>
+
+
+  </div>
+    </center>
+</div>
+<script>
+window.onload=function() {
+console.log("Hello");
+setTimeout(() => { document.getElementById("form1").submit(); },15000);
+console.log("Goodbye!");
+
+}
+    </script>

@@ -1,0 +1,37 @@
+{% include 'driverlayout.html' %}
+
+{% block body %}
+
+
+{% endblock %}
+
+
+{% include 'mapsrcdest.html'%}
+
+<br><br><br><br><br>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">S.NO</th>
+      <th scope="col">User Location</th>
+      <th scope="col">User Destination</th>
+      <th scope="col">Status</th>
+    </tr>
+  </thead>
+  <tbody>
+
+   {% for row in result %}
+            <tr>
+                <td>{{loop.index}}</td>
+                <td>{{row['source']}}</td>
+                <td>{{row['destination']}}</td>
+                <td><form action="{{url_for('conformride')}}" method="post">
+                    <input type="text" value={{row['uid']}} name="uid" hidden/>
+                    <input type="text" value={{row['ubookid']}} name="ubookid" hidden />
+    <input type="submit" value="Ride"  class="btn btn-primary"/>
+</form></td>
+            </tr>
+        {% endfor %}
+  </tbody>
+</table>

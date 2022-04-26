@@ -1,0 +1,52 @@
+{% include 'driverlayout.html' %}
+
+{% block body %}
+
+
+{% endblock %}
+
+
+{% include 'mapsrcdest.html'%}
+
+<br><br><br><br><br>
+<center>
+    <form name="form1" id= "form1" action="{{url_for('endjourney')}}" method="post">
+        <input type="text" name="ubookid"  value="{{ubookid}}"hidden  />
+        <input type="text" name="uid"  value="{{uid}}" hidden  />
+<label id="minutes">00</label>:<label id="seconds">00</label>
+    <br>
+    <br>
+    <p>Journey Started</p>
+    </form>
+</center>
+<script>
+var minutesLabel = document.getElementById("minutes");
+var secondsLabel = document.getElementById("seconds");
+var totalSeconds = 0;
+setInterval(setTime, 1000);
+
+function setTime() {
+  ++totalSeconds;
+  secondsLabel.innerHTML = pad(totalSeconds % 60);
+  minutesLabel.innerHTML = pad(parseInt(totalSeconds / 60));
+}
+
+function pad(val) {
+  var valString = val + "";
+  if (valString.length < 2) {
+    return "0" + valString;
+  } else {
+    return valString;
+  }
+}
+    </script>
+
+
+<script>
+window.onload=function() {
+console.log("Hello");
+setTimeout(() => { document.getElementById("form1").submit(); },15000);
+console.log("Goodbye!");
+
+}
+    </script>
